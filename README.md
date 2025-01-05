@@ -1,2 +1,3 @@
 # AutoPilotAutoPilotIntroduction
 AutomationObjectives
+SetupGuide
