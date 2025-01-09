@@ -2,3 +2,4 @@
 AutomationObjectives
 SetupGuide
 AutomationFeatures
+DependenciesList
