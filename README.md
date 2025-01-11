@@ -3,3 +3,4 @@ AutomationObjectives
 SetupGuide
 AutomationFeatures
 DependenciesList
+CodeExamples
