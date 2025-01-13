@@ -4,3 +4,4 @@ SetupGuide
 AutomationFeatures
 DependenciesList
 CodeExamples
+ConfigurationSettings
