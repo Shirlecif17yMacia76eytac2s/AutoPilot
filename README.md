@@ -5,3 +5,4 @@ AutomationFeatures
 DependenciesList
 CodeExamples
 ConfigurationSettings
+ContributionGuide
