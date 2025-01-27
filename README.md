@@ -11,3 +11,4 @@ LicenseDetails
 AutomationFAQ
 Changelog
 TestingInstructions
+AutomationPerformance
