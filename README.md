@@ -12,3 +12,4 @@ AutomationFAQ
 Changelog
 TestingInstructions
 AutomationPerformance
+CommunityResources
